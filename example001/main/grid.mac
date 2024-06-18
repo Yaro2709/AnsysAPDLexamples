@@ -1,0 +1,4 @@
+! Сетка
+type,1 $ mat,1 $ secn,1
+esize,0.1
+lmesh,all

@@ -1,0 +1,26 @@
+! Нагрузки
+ksel,s,,,1
+nslk
+F,all,FZ,-900
+F,all,FX,700
+
+ksel,s,,,3
+nslk
+F,all,FZ,-1800
+
+ksel,s,,,4
+nslk
+F,all,FZ,-500
+
+ksel,s,,,7
+nslk
+F,all,MY,-500
+
+! Распределенная нагрузка
+lsel,s,,,2
+esll
+SFBEAM,all,,PRES,500,
+
+lsel,s,,,5
+esll
+SFBEAM,all,,PRES,500,

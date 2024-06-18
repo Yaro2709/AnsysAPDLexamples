@@ -1,0 +1,22 @@
+FINISH
+/clear
+/TITLE, macros_balka
+/PREP7
+
+*use,main/options.mac
+*use,main/geometry.mac
+*use,main/grid.mac
+*use,main/kinematic.mac
+*use,main/load.mac
+
+*use,display.mac
+
+*use,calculations/lin.mac
+
+*use,results/UZ.mac
+
+*use,B188/B188.mac
+
+*use,B188/N_B188.mac
+*use,B188/My_B188.mac
+*use,B188/Qz_B188.mac
