@@ -1,3 +1,18 @@
 ! Кинематические ограничения
-D,NODE(0,  0, 0),ALL
-D,NODE(15, 0, 0),,,,,,UX,UY,ROTX,ROTZ
+ksel,s,,,2
+nslk
+d,all,UX
+d,all,UY
+d,all,UZ
+d,all,ROTX
+!d,all,ROTY
+d,all,ROTZ
+ksel,s,,,6
+nslk
+
+!d,all,UX
+d,all,UY
+d,all,UZ
+d,all,ROTX
+!d,all,ROTY
+d,all,ROTZ

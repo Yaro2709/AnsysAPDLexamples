@@ -1,6 +1,6 @@
 FINISH
-/clear
-/TITLE, macros_balka
+/CLEAR
+/TITLE, macros_rama
 /PREP7
 
 *use,main/options.mac
@@ -8,6 +8,7 @@ FINISH
 *use,main/grid.mac
 *use,main/kinematic.mac
 *use,main/load.mac
+*use,main/hinge.mac
 
 *use,display.mac
 
@@ -15,8 +16,8 @@ FINISH
 
 *use,results/UZ.mac
 
-*use,B189/B189.mac
+*use,B188/B188.mac
 
-*use,B189/N_B189.mac
-*use,B189/My_B189.mac
-*use,B189/Qz_B189.mac
+*use,B188/N_B188.mac
+*use,B188/My_B188.mac
+*use,B188/Qz_B188.mac
