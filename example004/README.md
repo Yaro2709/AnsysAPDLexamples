@@ -1,6 +1,6 @@
-# AnsysAPDLexample001
+# AnsysAPDLexample004
 
-AnsysAPDLexample001 is an example of a frame with loads and output of diagrams and displacements.
+AnsysAPDLexample004 is an example of a frame with loads and output of diagrams and displacements.
 
 ## Dependencies
-* AnsysAPDLmac v0.0.1
+* AnsysAPDLmac v0.4.0
