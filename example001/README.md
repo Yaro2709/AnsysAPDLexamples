@@ -3,4 +3,4 @@
 AnsysAPDLexample001 is an example of a beam with loads and output of diagrams and displacements.
 
 ## Dependencies
-* AnsysAPDLmac v0.0.1
+* AnsysAPDLmac v0.2.0
