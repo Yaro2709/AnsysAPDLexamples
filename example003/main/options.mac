@@ -1,0 +1,9 @@
+! Тип КЭ
+ET,1,BEAM44
+
+! Материал
+E=32471099000
+MU = 0.2
+UIMP,1,EX,PRXY,DENS,E,MU,0
+SECTYPE,1,beam,rect 
+SECDATA,0.15,0.15
